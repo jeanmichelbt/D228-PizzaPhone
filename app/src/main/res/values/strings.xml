@@ -31,4 +31,9 @@
     <string name="log_out">Log out</string>
     <string name="cherche_ton_pizza">Cherche ton Pizza !</string>
     <string name="username">Nom utilisateur</string>
+    <string name="connexion">Connexion</string>
+    <string name="LoginPage">Authentification</string>
+    <string name="nom_de_la_pizza">Nom de la Pizza</string>
+    <string name="price">Prix</string>
+    <string name="ingredient">Ingrédients </string>
 </resources>
